@@ -1,0 +1,322 @@
+General Medicine  : 853932
+Surgery  : 574809
+Multidisciplinary  : 455295
+Linguistics and Language  : 412231
+Immunology  : 403053
+Physical and Theoretical Chemistry  : 370349
+General Engineering  : 316271
+Mechanical Engineering  : 309160
+General Physics and Astronomy  : 292623
+Electrical and Electronic Engineering  : 258208
+General Chemistry  : 257697
+Organic Chemistry  : 236294
+Cancer Research  : 230104
+Public Health, Environmental and Occupational Health  : 222413
+Obstetrics and Gynaecology  : 219785
+General Biochemistry, Genetics and Molecular Biology  : 216165
+Cell Biology  : 214025
+Biotechnology  : 213538
+Pediatrics, Perinatology, and Child Health  : 201405
+Radiology Nuclear Medicine and imaging  : 195971
+Biophysics  : 194880
+Agronomy and Crop Science  : 186351
+Plant Science  : 180335
+Education  : 177693
+Physical Therapy, Sports Therapy and Rehabilitation  : 169075
+Control and Systems Engineering  : 156761
+Analytical Chemistry  : 156124
+Colloid and Surface Chemistry  : 153944
+Anesthesiology and Pain Medicine  : 145988
+General Materials Science  : 145876
+Cardiology and Cardiovascular Medicine  : 144614
+Gastroenterology  : 143799
+Materials Chemistry  : 135898
+Renewable Energy, Sustainability and the Environment  : 134675
+Psychiatry and Mental health  : 132949
+Animal Science and Zoology  : 132518
+Biochemistry  : 125211
+Pharmacology (medical)  : 124420
+Clinical Biochemistry  : 123224
+Nuclear and High Energy Physics  : 121110
+Genetics  : 120635
+Pathology and Forensic Medicine  : 117958
+General Mathematics  : 117867
+Economics and Econometrics  : 117863
+Toxicology  : 114973
+Food Science  : 114549
+Space and Planetary Science  : 113598
+Genetics(clinical)  : 112439
+Oncology  : 110765
+Ophthalmology  : 107913
+General Neuroscience  : 105749
+Physiology (medical)  : 105703
+Hepatology  : 105634
+Health Policy  : 104666
+Internal Medicine  : 104469
+Pharmacology  : 100459
+Acoustics and Ultrasonics  : 100039
+Critical Care and Intensive Care Medicine  : 93708
+Instrumentation  : 92299
+Microbiology (medical)  : 91929
+Sociology and Political Science  : 91227
+Environmental Engineering  : 89086
+Philosophy  : 87448
+Geography, Planning and Development  : 86850
+Physics and Astronomy (miscellaneous)  : 85246
+Molecular Biology  : 84510
+Developmental Biology  : 83967
+Ecology  : 83796
+Urology  : 82879
+Atomic and Molecular Physics, and Optics  : 81439
+Applied Mathematics  : 81107
+Aquatic Science  : 80735
+Political Science and International Relations  : 78862
+Nutrition and Dietetics  : 74589
+Fuel Technology  : 74277
+General Earth and Planetary Sciences  : 71876
+Cultural Studies  : 70707
+Orthopedics and Sports Medicine  : 70073
+Earth-Surface Processes  : 69962
+General Nursing  : 69095
+Atmospheric Science  : 68444
+Molecular Medicine  : 68268
+Neurology  : 67265
+Religious studies  : 64774
+Inorganic Chemistry  : 64469
+Applied Psychology  : 61990
+Dermatology  : 61171
+Hematology  : 59899
+Computer Networks and Communications  : 59031
+Ecology, Evolution, Behavior and Systematics  : 58872
+Theoretical Computer Science  : 58777
+Literature and Literary Theory  : 55610
+Arts and Humanities (miscellaneous)  : 53711
+Industrial and Manufacturing Engineering  : 53144
+Transplantation  : 52710
+Insect Science  : 51884
+Electronic, Optical and Magnetic Materials  : 51483
+Geotechnical Engineering and Engineering Geology  : 51148
+Management Science and Operations Research  : 50943
+Soil Science  : 50332
+Clinical Psychology  : 50324
+General Energy  : 49759
+History  : 49729
+Pulmonary and Respiratory Medicine  : 49056
+Physiology  : 48924
+Anatomy  : 48303
+Otorhinolaryngology  : 46513
+Marketing  : 46177
+Virology  : 43239
+Modelling and Simulation  : 43101
+Experimental and Cognitive Psychology  : 42992
+Endocrinology, Diabetes and Metabolism  : 42747
+Management of Technology and Innovation  : 40048
+Strategy and Management  : 39495
+Nephrology  : 39467
+General Veterinary  : 39429
+General Psychology  : 39222
+Agricultural and Biological Sciences (miscellaneous)  : 38913
+Software  : 38210
+Social Sciences (miscellaneous)  : 37878
+Archaeology  : 37709
+Signal Processing  : 37624
+Epidemiology  : 37049
+Horticulture  : 36862
+Spectroscopy  : 36531
+Statistics and Probability  : 36039
+Geochemistry and Petrology  : 35694
+General Computer Science  : 35405
+General Social Sciences  : 34548
+Civil and Structural Engineering  : 33986
+Clinical Neurology  : 33910
+General Pharmacology, Toxicology and Pharmaceutics  : 33519
+Library and Information Sciences  : 33085
+Law  : 33000
+Emergency Medicine  : 32812
+Biological Psychiatry  : 31931
+Rehabilitation  : 31479
+Statistics, Probability and Uncertainty  : 31215
+Immunology and Allergy  : 30989
+Geology  : 30653
+Speech and Hearing  : 30428
+General Dentistry  : 30276
+Food Animals  : 30017
+Algebra and Number Theory  : 29952
+Pharmaceutical Science  : 29380
+Electrochemistry  : 29335
+Water Science and Technology  : 27177
+Cognitive Neuroscience  : 27128
+Medicine (miscellaneous)  : 27092
+Rheumatology  : 26213
+Mathematical Physics  : 25574
+Infectious Diseases  : 24939
+General Economics, Econometrics and Finance  : 24737
+General Agricultural and Biological Sciences  : 24144
+History and Philosophy of Science  : 23738
+Advanced and Specialised Nursing  : 23570
+Condensed Matter Physics  : 23308
+Microbiology  : 22966
+Forestry  : 22820
+Developmental and Educational Psychology  : 22271
+Process Chemistry and Technology  : 22200
+Media Technology  : 21415
+Pollution  : 20571
+Classics  : 19826
+Waste Management and Disposal  : 19416
+Hardware and Architecture  : 19337
+Leadership and Management  : 19223
+Complementary and alternative medicine  : 18611
+General Chemical Engineering  : 18508
+Mechanics of Materials  : 18459
+Ecological Modelling  : 17909
+Earth and Planetary Sciences (miscellaneous)  : 17426
+Parasitology  : 17158
+Tourism, Leisure and Hospitality Management  : 16618
+Communication  : 16440
+Visual Arts and Performing Arts  : 16302
+Gerontology  : 16229
+Critical Care  : 15725
+Radiological and Ultrasound Technology  : 15714
+Oral Surgery  : 15244
+Development  : 14795
+Surfaces, Coatings and Films  : 14532
+Applied Microbiology and Biotechnology  : 14222
+Cellular and Molecular Neuroscience  : 14150
+Nuclear Energy and Engineering  : 14070
+General Business, Management and Accounting  : 13979
+Health Informatics  : 13581
+Geometry and Topology  : 13540
+General Arts and Humanities  : 13514
+General Environmental Science  : 12867
+Polymers and Plastics  : 11880
+Geriatrics and Gerontology  : 11808
+Computers in Earth Sciences  : 11782
+Analysis  : 11181
+Palaeontology  : 10983
+Behavioral Neuroscience  : 10580
+Filtration and Separation  : 10446
+Human-Computer Interaction  : 10446
+Community and Home Care  : 10355
+Business and International Management  : 10337
+Ageing  : 10238
+Aerospace Engineering  : 10164
+Business, Management and Accounting (miscellaneous)  : 9936
+Biomedical Engineering  : 9826
+Emergency  : 9789
+Phychiatric Mental Health  : 9698
+Developmental Neuroscience  : 9385
+Computational Theory and Mathematics  : 8967
+Sensory Systems  : 8919
+Family Practice  : 8798
+Accounting  : 8643
+Maternity and Midwifery  : 8548
+Computer Science (miscellaneous)  : 7980
+Astronomy and Astrophysics  : 7875
+Endocrinology  : 7845
+Music  : 7481
+Drug Discovery  : 7346
+Orthodontics  : 7098
+Periodontics  : 7078
+Psychology (miscellaneous)  : 6839
+Oceanography  : 6561
+Environmental Science (miscellaneous)  : 6423
+Biomaterials  : 6339
+Artificial Intelligence  : 6080
+Logic  : 6074
+Review and Exam Preparation  : 6072
+Ocean Engineering  : 6032
+Organizational Behavior and Human Resource Management  : 6028
+Equine  : 5773
+Statistical and Nonlinear Physics  : 5767
+Stratigraphy  : 5766
+Information Systems  : 5734
+Oncology(nursing)  : 5575
+Economic Geology  : 5360
+Assessment and Diagnosis  : 5348
+Social Psychology  : 5206
+Life-span and Life-course Studies  : 4958
+Metals and Alloys  : 4918
+Small Animals  : 4878
+Geophysics  : 4857
+Automotive Engineering  : 4650
+Radiation  : 4452
+Anthropology  : 4245
+Demography  : 4130
+Control and Optimization  : 4066
+Immunology and Microbiology (miscellaneous)   : 3549
+Mathematics (miscellaneous)  : 3441
+Nursing (miscellaneous)  : 3438
+Engineering (miscellaneous)  : 3292
+Economics, Econometrics and Finance (miscellaneous)  : 3261
+Numerical Analysis  : 3246
+Biochemistry, Genetics and Molecular Biology (miscellaneous)  : 3185
+Occupational Therapy  : 3144
+Ceramics and Composites  : 3084
+Museology  : 2843
+Information Systems and Management  : 2737
+Health(social science)  : 2714
+Dentistry (miscellaneous)  : 2711
+Discrete Mathematics and Combinatorics  : 2640
+Health, Toxicology and Mutagenesis  : 2616
+Global and Planetary Change  : 2593
+Building and Construction  : 2592
+Gender Studies  : 2496
+Industrial relations  : 2452
+Energy Engineering and Power Technology  : 2405
+Structural Biology  : 2379
+General Immunology and Microbiology  : 2376
+MedicalвЂ“Surgical  : 2370
+Finance  : 2350
+Materials Science (miscellaneous)  : 2221
+Fundamentals and skills  : 2115
+Chiropractics  : 2049
+Public Administration  : 2030
+Urban Studies  : 1982
+Catalysis  : 1980
+Transportation  : 1953
+Neuropsychology and Physiological Psychology  : 1912
+Medical Laboratory Technology  : 1896
+Bioengineering  : 1813
+Issues, ethics and legal aspects  : 1807
+Safety, Risk, Reliability and Quality  : 1730
+Architecture   : 1694
+Pediatrics  : 1634
+Safety Research  : 1360
+Management, Monitoring, Policy and Law  : 1343
+Computer Vision and Pattern Recognition  : 1274
+Management Information Systems  : 1273
+Chemical Engineering (miscellaneous)  : 1197
+Endocrine and Autonomic Systems  : 1121
+Conservation  : 1087
+Research and Theory  : 1044
+Optometry  : 947
+Computational Mathematics  : 918
+Care Planning  : 840
+Health Information Management  : 811
+Nurse Assisting  : 766
+Energy (miscellaneous)  : 712
+Human Factors and Ergonomics  : 673
+General Health Professions  : 672
+Podiatry  : 589
+Computational Mechanics  : 538
+Computer Science Applications  : 502
+General Decision Sciences  : 484
+Reproductive Medicine  : 431
+Computer Graphics and Computer-Aided Design  : 414
+Fluid Flow and Transfer Processes  : 411
+Histology  : 361
+Environmental Chemistry  : 342
+Embryology  : 336
+Nature and Landscape Conservation  : 328
+Chemical Health and Safety  : 279
+Health Professions (miscellaneous)  : 197
+Language and Linguistics  : 190
+Medical Assisting and Transcription  : 163
+Pharmacology, Toxicology and Pharmaceutics (miscellaneous)  : 150
+Neuroscience (miscellaneous)  : 96
+Drug guides  : 80
+Decision Sciences (miscellaneous)  : 68
+Surfaces and Interfaces  : 43
+LPN and LVN  : 34
+Reviews and References, Medical  : 19
+Dental Hygiene  : 2
